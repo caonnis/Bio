@@ -2,6 +2,7 @@ Hey there! 👋
 
 I'm Ariel, a passionate Quality Assurance (QA) Engineer and Lawyer committed to building reliable, high-quality applications. With a strong interest in data and a unique blend of expertise in both tech and law. Always eager to learn and innovate, I bring a well-rounded approach to quality assurance, automation, and making decisions based on data.
 
+<br>
 
 **About Me**
 
@@ -11,6 +12,7 @@ I'm Ariel, a passionate Quality Assurance (QA) Engineer and Lawyer committed to 
     <a href="mailto:arielonnis@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" width="50" height="50" style="background-color: #EA4335; border-radius: 8px; padding: 5px;"></a>
 </div>
 
+<br>
 
 **Some languages & Tools**
 
