@@ -4,13 +4,21 @@ I'm Ariel, a passionate Quality Assurance (QA) Engineer and Lawyer committed to 
 
 **About Me**
 
-<a href="https://www.linkedin.com/in/onnis/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn Logo" width="50" height="50"></a>
-<a href="https://wa.me/+541161179711"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/800px-WhatsApp_logo-color-vertical.svg.png" alt="WhatsApp Logo" width="50" height="50"></a>
-<a href="mailto:arielonnis@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail Logo" width="50" height="50"></a>
+<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+    <a href="https://www.linkedin.com/in/onnis/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Logo" width="50" height="50" style="background-color: #0077B5; border-radius: 8px; padding: 5px;"></a>
+    <a href="https://wa.me/+541161179711"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" width="50" height="50" style="background-color: #25D366; border-radius: 8px; padding: 5px;"></a>
+    <a href="mailto:arielonnis@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" width="50" height="50" style="background-color: #EA4335; border-radius: 8px; padding: 5px;"></a>
+</div>
 
 **Languages & Tools**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/480px-Visual_Studio_Code_1.35_icon.svg.png" alt="Playwright Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JS Logo" width="60" height="60"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Logo" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="PBI Logo" width="60" height="60"> 
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code Logo" width="50" height="50" style="filter: drop-shadow(0 0 3px rgba(0,0,0,0.3));">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" height="50" style="filter: drop-shadow(0 0 3px rgba(0,0,0,0.3));">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS Logo" width="50" height="50" style="filter: drop-shadow(0 0 3px rgba(0,0,0,0.3));">
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Logo" width="50" height="50" style="filter: drop-shadow(0 0 3px rgba(0,0,0,0.3));">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="50" height="50" style="filter: drop-shadow(0 0 3px rgba(0,0,0,0.3));">
+</div>
 
-I'm excited to help in your your projects! 🤝😉
+I'm excited to help in your projects! 🤝😉
 Let's talk! 💬📞
