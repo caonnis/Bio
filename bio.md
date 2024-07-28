@@ -24,5 +24,6 @@ I'm Ariel, a passionate Quality Assurance (QA) Engineer and Lawyer committed to 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="50" height="50" style="filter: drop-shadow(0 0 3px rgba(0,0,0,0.3));">
 </div>
 
-I'm excited to help in your projects! 🤝😉
-Let's talk! 💬📞
+<br>
+
+Let's talk! 💬📞🤝😉
