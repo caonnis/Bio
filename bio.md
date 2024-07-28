@@ -10,7 +10,7 @@ I'm Ariel, a passionate Quality Assurance (QA) Engineer and Lawyer committed to 
 
 **Languages & Tools**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/480px-Visual_Studio_Code_1.35_icon.svg.png" alt="Playwright Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="50" height="50"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Logo" width="60" height="60"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/480px-Visual_Studio_Code_1.35_icon.svg.png" alt="Playwright Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JS Logo" width="60" height="60"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Logo" width="60" height="60"> 
 
 I'm excited to help in your your projects! 🤝😉
 Let's talk! 💬📞
