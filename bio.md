@@ -22,8 +22,8 @@
             color: var(--text-color);
         }
 
- .container {
-            max-width: 800px;
+   .container {
+        max-width: 800px;
             margin: 0 auto;
             padding: 40px;
             background: var(--card-bg);
@@ -38,7 +38,7 @@
             margin-top: 30px;
         }
 
-   h1 {
+  h1 {
             font-size: 2.5em;
             margin-bottom: 20px;
         }
@@ -58,8 +58,18 @@
             font-weight: 600;
         }
 
+  a {
+            color: var(--secondary-color);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+  a:hover {
+            color: var(--primary-color);
+        }
+
    .social-links, .tools {
-          display: flex;
+            display: flex;
             gap: 20px;
             flex-wrap: wrap;
             justify-content: flex-start;
@@ -67,7 +77,7 @@
             padding: 15px 0;
         }
 
-   .social-links a, .tools a {
+  .social-links a, .tools a {
             display: flex;
             align-items: center;
             text-decoration: none;
@@ -82,7 +92,7 @@
             filter: grayscale(20%);
         }
 
-   .social-links a:hover img, .tools a:hover img {
+  .social-links a:hover img, .tools a:hover img {
             transform: translateY(-5px);
             filter: grayscale(0%);
         }
@@ -99,11 +109,12 @@
             border-top: 1px solid #eee;
             font-size: 1.2em;
         }
-        @media (max-width: 600px) {
+
+   @media (max-width: 600px) {
             .container {
                 padding: 20px;
             }
-        
+            
    .social-links, .tools {
                 justify-content: center;
             }
@@ -114,10 +125,11 @@
     <div class="container">
         <h1>Hey there! 👋</h1>
         <p>I'm <a href="https://www.linkedin.com/in/onnis/" target="_blank">Ariel Onnis</a>, a Quality Assurance (QA) Engineer and Lawyer dedicated to building reliable, high-quality applications. I bring a unique perspective by combining technical expertise with legal knowledge, focusing on creating trustworthy digital solutions.</p>
-   <h2>🚀 About Me</h2>
+
+<h2>🚀 About Me</h2>
         <p>As the co-founder of <a href="https://www.certainty.solutions" target="_blank">Certainty Solutions</a>, I lead initiatives in data compliance, human rights audits, and tech & data advisory. With over two decades of technology experience and a deep focus on AI-driven compliance solutions, I'm passionate about building trust in the digital age. My work centers on creating bridges between legal requirements and technical implementations.</p>
 
-   <h2>🛠️ Tech Stack & Tools</h2>
+<h2>🛠️ Tech Stack & Tools</h2>
         <div class="tools">
             <a href="#" title="VS Code"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"></a>
             <a href="#" title="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"></a>
@@ -126,7 +138,7 @@
             <a href="#" title="Power BI"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"></a>
         </div>
 
-   <h2>🤝 Let's Connect</h2>
+ <h2>🤝 Let's Connect</h2>
         <div class="social-links">
             <a href="https://www.linkedin.com/in/onnis/" target="_blank" title="LinkedIn">
                 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn">
@@ -139,7 +151,7 @@
             </a>
         </div>
 
-   <div class="footer">
+  <div class="footer">
             Let's collaborate on making technology more reliable and compliant! 💡
         </div>
     </div>
